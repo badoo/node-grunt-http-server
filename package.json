@@ -1,7 +1,7 @@
 {
   "name": "@bumble/grunt-http-server",
   "description": "Grunt static http server task",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "homepage": "http://divhide.com",
   "author": {
     "name": "Oscar Brito",
